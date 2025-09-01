@@ -1,27 +1,24 @@
 # BattleCity
 
-Battle City (NES) game recreated in Unity Engine 5.
+Порт игры Battle city с консоли NES на Unity engine
 
-A complete copy of battle city game with identical mechanics, multiplayer, powerups and tileset. Contains 5 starting maps, which are stored in easily editable .txt files.
+Репозиторий является фороком.
 
-2D, Shooter, Multiplayer
-
-Gameplay video: https://youtu.be/1TupwICDR58
+Главная цель форка - адаптировать проект для обучения игре нейросети
 
 |   |   |
 |---|---|
-|![First level](https://github.com/JustoSenka/BattleCity/blob/master/Screenshots/BattleCity1.png?raw=true)|![Second level](https://github.com/JustoSenka/BattleCity/blob/master/Screenshots/BattleCity2.png?raw=true)|
 
-## Controls 
+## Управление
 
-**R** to reset the game and change number of players.
+**R** Перезапуск и смена кол-ва игроков
 
-### Player 1:
+### Игрок 1:
 
-**WASD** Keys to move.
-**G** to shoot.
+**WASD** Движение.
+**G** Стрельба.
 
-### Player 2:
+### Игрок:
 
-**Arrow Keys** to move.
-**L** to shoot.
+**Стрелки** Движение.
+**L** Стрельба.
